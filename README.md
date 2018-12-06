@@ -1,2 +1,2 @@
-# Nishad
+# SURI
 local VM test
